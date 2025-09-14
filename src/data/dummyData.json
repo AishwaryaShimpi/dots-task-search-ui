@@ -1,0 +1,170 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "type": "person",
+      "avatar": "https://randomuser.me/api/portraits/women/1.jpg",
+      "name": "Randall Johnsson",
+      "status": "Active now"
+    },
+    {
+      "id": 2,
+      "type": "person",
+      "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
+      "name": "Kristinge Karand",
+      "status": "Active 2d ago"
+    },
+    {
+      "id": 3,
+      "type": "person",
+      "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
+      "name": "Michaelina Folderson",
+      "status": "Active 5m ago"
+    },
+    {
+      "id": 4,
+      "type": "person",
+      "avatar": "https://randomuser.me/api/portraits/men/4.jpg",
+      "name": "John Michaelson",
+      "status": "Active 1h ago"
+    },
+    {
+      "id": 5,
+      "type": "person",
+      "avatar": "https://randomuser.me/api/portraits/women/5.jpg",
+      "name": "Emily Randall",
+      "status": "Active 10m ago"
+    },
+    {
+      "id": 6,
+      "type": "person",
+      "avatar": "https://randomuser.me/api/portraits/men/6.jpg",
+      "name": "Frank Johnson",
+      "status": "Active now"
+    },
+    {
+      "id": 7,
+      "type": "person",
+      "avatar": "https://randomuser.me/api/portraits/women/7.jpg",
+      "name": "Samantha Brown",
+      "status": "Active yesterday"
+    },
+    {
+      "id": 8,
+      "type": "person",
+      "avatar": "https://randomuser.me/api/portraits/men/8.jpg",
+      "name": "David Karand",
+      "status": "Active now"
+    },
+    {
+      "id": 9,
+      "type": "person",
+      "avatar": "https://randomuser.me/api/portraits/women/9.jpg",
+      "name": "Karina Smithson",
+      "status": "Active 3h ago"
+    },
+    {
+      "id": 10,
+      "type": "person",
+      "avatar": "https://randomuser.me/api/portraits/men/10.jpg",
+      "name": "James Randolf",
+      "status": "Active 30m ago"
+    }
+  ],
+  "files": [
+    {
+      "id": 1,
+      "type": "folder",
+      "name": "Random Michal Folder",
+      "subtext": "in Photos • Edited 12m ago"
+    },
+    {
+      "id": 2,
+      "type": "image",
+      "name": "creative_file_frandkies.jpg",
+      "subtext": "in Photos/Assets • Edited 12m ago"
+    },
+    {
+      "id": 3,
+      "type": "video",
+      "name": "files_krande_michelle.avi",
+      "subtext": "in Videos • Added 12m ago"
+    },
+    {
+      "id": 4,
+      "type": "document",
+      "name": "project_overview.pdf",
+      "subtext": "in Docs • Edited 1h ago"
+    },
+    {
+      "id": 5,
+      "type": "spreadsheet",
+      "name": "financial_data.xlsx",
+      "subtext": "in Docs • Edited 3d ago"
+    },
+    {
+      "id": 6,
+      "type": "presentation",
+      "name": "quarterly_report.pptx",
+      "subtext": "in Docs • Edited yesterday"
+    },
+    {
+      "id": 7,
+      "type": "audio",
+      "name": "meeting_recording.mp3",
+      "subtext": "in Audio • Added 2d ago"
+    },
+    {
+      "id": 8,
+      "type": "archive",
+      "name": "backup_files.zip",
+      "subtext": "in Backups • Added 12h ago"
+    },
+    {
+      "id": 9,
+      "type": "script",
+      "name": "automation_script.js",
+      "subtext": "in Scripts • Edited 1h ago"
+    },
+    {
+      "id": 10,
+      "type": "image",
+      "name": "product_screenshot.png",
+      "subtext": "in Photos/Assets • Edited 4h ago"
+    }
+  ],
+  "chats": [
+    {
+      "id": 1,
+      "type": "chat",
+      "name": "Project Kickoff Chat",
+      "subtext": "Active 1h ago"
+    },
+    {
+      "id": 2,
+      "type": "chat",
+      "name": "Team Weekly Sync",
+      "subtext": "Active 2d ago"
+    },
+    {
+      "id": 3,
+      "type": "chat",
+      "name": "Client Discussion",
+      "subtext": "Active 5m ago"
+    }
+  ],
+  "lists": [
+    {
+      "id": 1,
+      "type": "list",
+      "name": "Task List Q3",
+      "subtext": "Last updated yesterday"
+    },
+    {
+      "id": 2,
+      "type": "list",
+      "name": "Bug Fix Checklist",
+      "subtext": "Last updated 3d ago"
+    }
+  ]
+}
